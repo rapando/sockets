@@ -1,3 +1,1 @@
-A simple demonstration of sockets in python 2.7 
-
-> Rapando Sam (@samy_raps on Twitter)
+Merged the code in Python and C into the same repo
